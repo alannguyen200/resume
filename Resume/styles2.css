@@ -1,0 +1,65 @@
+
+
+.paper{
+    border: 1px solid black;
+    width :800px;
+    margin: 0 auto;
+    height:1000px
+}
+
+.contact-info{
+    display:flex;
+    justify-content: space-around;
+}
+
+.name-number-email{
+    border-bottom: 1px solid black;
+    width: 50%;
+    text-align:left;
+}
+
+.skills{
+    display:flex;
+    justify-content: space-around;
+}
+
+.technical-soft-skills{
+    border-bottom: 1px solid black;
+    width: 50%;
+    text-align:left;
+}
+ 
+.experience{
+    display:flex;
+    justify-content: space-around;
+}
+
+.jobs{
+    border: 1px solid black;
+    width: 50%;
+    text-align:left;
+}
+
+.Education{
+    display:flex;
+    justify-content: space-around;
+    
+}
+
+.Creek-SVCTE{
+    border-bottom: 1px solid black;
+    width: 50%;
+    text-align:left;
+    border-top: 1px solid black 
+}
+
+.extracurricular{
+    display:flex;
+    justify-content: space-around;
+}
+
+.clubs{
+    border-bottom: 1px solid black;
+    width: 50%;
+    text-align:left;
+}
